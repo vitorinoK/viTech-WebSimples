@@ -1,4 +1,4 @@
-# README.md
+# README
 Esse projeto é um site básico da empresa ViTech, especializada em produtos tecnológicos de alta qualidade. O site contém informações sobre a marca, sua missão, visão e valores, além de um formulário de contato.
 
 ## Tecnologias utilizadas:
@@ -15,9 +15,9 @@ Ou você pode visualizar o sites clicando no link abaixo:
 [https://cheerful-monstera-74b363.netlify.app/](https://cheerful-monstera-74b363.netlify.app/)
 
 ## Imagens do site
-[principal](https://user-images.githubusercontent.com/125405624/220536099-f7f9c581-3178-429a-99cc-e52c0693e88e.png)
-[principal](https://user-images.githubusercontent.com/125405624/220536216-51b01235-792f-477d-bdf2-fc22f614460c.png)
-[contato](https://user-images.githubusercontent.com/125405624/220536272-7172636c-4679-4787-b343-4b49513c549e.png)
+![principal](https://user-images.githubusercontent.com/125405624/220536099-f7f9c581-3178-429a-99cc-e52c0693e88e.png)
+![principal](https://user-images.githubusercontent.com/125405624/220536216-51b01235-792f-477d-bdf2-fc22f614460c.png)
+![contato](https://user-images.githubusercontent.com/125405624/220536272-7172636c-4679-4787-b343-4b49513c549e.png)
 
 ## Autora:
 Esse projeto foi desenvolvido por Kariny Vitorino. Você pode me encontrar também no linkedin:
