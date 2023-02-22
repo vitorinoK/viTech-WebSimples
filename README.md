@@ -17,7 +17,8 @@ Ou você pode visualizar o sites clicando no link abaixo:
 ## Imagens do site
 ![principal](https://user-images.githubusercontent.com/125405624/220536099-f7f9c581-3178-429a-99cc-e52c0693e88e.png)
 ![principal](https://user-images.githubusercontent.com/125405624/220536216-51b01235-792f-477d-bdf2-fc22f614460c.png)
-![contato](https://user-images.githubusercontent.com/125405624/220536272-7172636c-4679-4787-b343-4b49513c549e.png)
+Clicando em qualquer desses tópicos o usuário será direcionado ao perfil da página:
+![contato](https://user-images.githubusercontent.com/125405624/220537394-5a8db3f7-6c40-426d-8691-16c26fa249ce.png)
 
 ## Autora:
 Esse projeto foi desenvolvido por Kariny Vitorino. Você pode me encontrar também no linkedin:
